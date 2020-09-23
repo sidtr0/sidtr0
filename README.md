@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, it seems you have stumbled upon my humble account 👋
 
-<!--
-**DracTheDino/DracTheDino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Drac, a high school student and I am from the wondeful country of India! I love programming and game developemnt. In the programming field, I am fairly exprienced with JavaScript and Python and a little of C#. In the game dev field, I love working with Unity. I also enjoy a bit of graphic design and I am also trying my luck with Figma prototyping. Quite fun stuff!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on https://github.com/the-programmers-hangout/Chronos
+- 🌱 I’m currently learning Rust!
+- 👯 I’m looking to collaborate on Discord bots!
+- 📫 How to reach me: DM me on Discord @Drac#9901
+- 😄 Pronouns: he, him
+- ⚡ Fun fact: I love dogs and cats equally!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+[![Drac's github stats](https://github-readme-stats.vercel.app/api?username=DracTheDino)](https://github.com/anuraghazra/github-readme-stats)
