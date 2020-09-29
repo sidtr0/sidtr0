@@ -4,9 +4,7 @@ I am Siddharth, better known as Drac on all online platforms, a high school stud
 
 - 🔭 I’m currently working on https://github.com/the-programmers-hangout/Chronos
 - 🌱 I’m currently learning Rust!
-- 👯 I’m looking to collaborate on Discord bots!
 - 📫 How to reach me: DM me on Discord @Drac#9901
-- 😄 Pronouns: he, him
 - ⚡ Fun fact: I love dogs and cats equally!
 
 ### Stats
