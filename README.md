@@ -9,4 +9,4 @@ I am Siddharth, better known as Drac on all online platforms, a high school stud
 
 ### Stats
 
-[![Drac's github stats](https://github-readme-stats.vercel.app/api?username=DracTheDino)](https://github.com/anuraghazra/github-readme-stats)
+[![Drac's github stats](https://github-readme-stats.vercel.app/api?username=DracTheDino&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
