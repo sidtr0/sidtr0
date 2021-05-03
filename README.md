@@ -1,8 +1,11 @@
-### Hi there, it seems you have stumbled upon my humble account 👋
+### Drac
 
-I am Siddharth, better known as Drac on all online platforms, a high school student, and a self taught programming hobbyist. I like messing around with code, game engines and Blender.
+I am Siddharth, better known as Drac on all online platforms, a high school student, and a self taught programming hobbyist. I like messing around with code, game engines and Blender. Did I mention I like music?
 
-- 🌱 I’m currently working with Blender and trying to get comfortable with it.
+- 🌱 Currently in love with Blender
+- 📔 Text editor: VSCode
+- 🖥️ Operating system: Windows 10 with WSL2 
+- 🎵 [My Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa)
 - 📫 How to reach me: DM me on Discord @Drac#9999
 
 ### Stats
