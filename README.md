@@ -6,7 +6,7 @@ I am Siddharth, better known as Drac on all online platforms, a high school stud
 - 📔 Text editor: VSCode
 - 🖥️ Operating system: Windows 10 with WSL2 
 - 🎵 [My Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa)
-- 📫 How to reach me: DM me on Discord @Drac#9999. You can find my messing around in [The Programmer's Hangout](https://discord.gg/programming) and [Formula 1](https://discord.gg/formula1) Discord servers. 
+- 📫 How to reach me: DM me on Discord @Drac#9999. You can find me messing around in [The Programmer's Hangout](https://discord.gg/programming) and [Formula 1](https://discord.gg/formula1) Discord servers. 
 - ⌨️ My blog: https://dracthedino.github.io/
 
 ### Stats
