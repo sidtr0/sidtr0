@@ -5,7 +5,7 @@ Programming, motorsports, 3D modelling, cars, tech and TV 💻🏎️.
 Preferably all at once 🤔.
 
 - 🌱 Currently in love with Blender
-- 📘 Currently making high poly realistic in Blender.
+- 📘 Currently making high poly realistic cars in Blender.
 - 📔 Text editor: VSCode/IntelliJ IDEA/Blender.
 - 🖥️ Operating system: Windows 11 (+ WSL2, sometimes).
 - 🎵 [My Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
