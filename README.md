@@ -6,7 +6,7 @@ Preferably all at once 🤔.
 
 - 🌱 Currently in love with Blender
 - 📘 Currently making high poly realistic cars in Blender.
-- 📔 Text editor: VSCode/IntelliJ IDEA/Blender.
+- 📔 Software of choice: VSCode/IntelliJ IDEA/Blender.
 - 🖥️ Operating system: Windows 11 (+ WSL2, sometimes).
 - 🎵 [My Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
 - 📫 How to reach me: DM me on Discord @Drac#9999. You can find me messing around in [The Programmer's Hangout](https://discord.gg/programming) Discord server. 
