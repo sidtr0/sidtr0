@@ -4,7 +4,7 @@ Programming, motorsports, 3D modelling, cars, tech, music and TV :computer:.
 
 Preferably all at once :thinking:.
 
-- 📫 How to reach me: I am @Drac#9999 on Discord. You can find me messing around in [The Programmer's Hangout](https://discord.gg/programming), so join that and DM me from there as I probably won't accept a random friend request.
+- 📫 How to reach me: I am @Drac#9999 on Discord. You can find me messing around in [The Programmer's Hangout](https://discord.gg/programming) (am also a staff member there), so join that and DM me from there as I probably won't accept a random friend request.
 - 📖 High school student.
 - 🌱 In love with Blender and DiscordKt. 
 - 📘 Currently working on my blogfolio.
