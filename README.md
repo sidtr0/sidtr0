@@ -15,8 +15,6 @@ Preferably all at once :thinking:.
 
 If you want to check out my Blender escapades, I post my work on Instagram from time to time [@dracthedino](https://www.instagram.com/dracthedino/). 
 
-Latest blog post: [A Year Of Doing Blender.](https://dracthedino.github.io/blog/a-year-of-doing-blender/)
-
 ### Stats
 
 [![Drac's github stats](https://github-readme-stats.vercel.app/api?username=DracTheDino&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
