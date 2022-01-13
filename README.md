@@ -13,4 +13,5 @@ High school student. Programming, motorsports, 3D modelling, cars, tech, gaming,
 
 ### Stats
 
-[![Drac's github stats](https://github-readme-stats.vercel.app/api?username=DracTheDino&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/DracTheDino/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/DracTheDino/github-stats/blob/master/generated/languages.svg)
