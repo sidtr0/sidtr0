@@ -3,7 +3,7 @@
 High school student. Programming, motorsports, 3D modelling, cars, tech, gaming, music and TV :computer:. Staff @ [The Programmer's Hangout](https://discord.gg/programming).
 
 - 🌱 In love with Autodesk Fusion 360. 
-- 📘 Currently working on undefined.
+- 📘 Currently working on some cars.
 - 📔 Software of choice: VSCode/IntelliJ IDEA/Blender.
 - 🖥️ Operating system: Windows 11 (+ WSL2, sometimes).
 - 🎵 [Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
