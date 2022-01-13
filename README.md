@@ -1,19 +1,15 @@
-# Drac
+# Siddharth (Drac)
 
-Programming, motorsports, 3D modelling, cars, tech, music and TV :computer:.
+High school student. Programming, motorsports, 3D modelling, cars, tech, gaming, music and TV :computer:. Staff @ [The Programmer's Hangout](https://discord.gg/programming).
 
-Preferably all at once :thinking:.
-
-- 📫 How to reach me: I am @Drac#9999 on Discord. You can find me messing around in [The Programmer's Hangout](https://discord.gg/programming) (am also a staff member there), so join that and DM me from there as I probably won't accept a random friend request.
-- 📖 High school student.
-- 🌱 In love with Blender and DiscordKt. 
-- 📘 Currently working on my blogfolio.
+- 🌱 In love with Autodesk Fusion 360. 
+- 📘 Currently working on undefined.
 - 📔 Software of choice: VSCode/IntelliJ IDEA/Blender.
 - 🖥️ Operating system: Windows 11 (+ WSL2, sometimes).
-- 🎵 [My Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
-- ⌨️ [My blog](https://bush-car-dcc.notion.site/04baa12ee4aa4119aa9293ea4f5c2d77?v=5c9e4f3401914d48bc9cbc0e37f95b07) (you'll notice a great lack of creative skills)
-
-If you want to check out my Blender escapades, I post my work on Instagram from time to time [@dracthedino](https://www.instagram.com/dracthedino/). 
+- 🎵 [Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
+- ⌨️ [Blog](https://bush-car-dcc.notion.site/04baa12ee4aa4119aa9293ea4f5c2d77?v=5c9e4f3401914d48bc9cbc0e37f95b07)
+- 🖼️ [Instagram](https://www.instagram.com/dracthedino/)
+- 📫 How to reach me: I am @Drac#9999 on Discord. Reach out to me on [The Programmer's Hangout Discord](https://discord.gg/programming).
 
 ### Stats
 
