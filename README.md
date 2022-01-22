@@ -15,4 +15,4 @@ High school student. Programming, motorsports, 3D modelling, cars, tech, gaming,
 
 ![](https://github.com/DracTheDino/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/DracTheDino/github-stats/blob/master/generated/languages.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?DracTheDino=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DracTheDino)](https://github.com/ryo-ma/github-profile-trophy)
