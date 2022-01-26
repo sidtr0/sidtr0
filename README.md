@@ -2,9 +2,9 @@
 
 High school student. Programming, motorsports, 3D modelling, cars, tech, gaming, music and TV :computer:. Staff @ [The Programmer's Hangout](https://discord.gg/programming).
 
-- 🌱 In love with Autodesk Fusion 360. 
-- 📘 Currently working on some cars.
-- 📔 Software of choice: VSCode/IntelliJ IDEA/Blender.
+- 🌱 In love with .NET. 
+- 📘 Currently learning .NET with C#.
+- 📔 Software of choice: VS/VSCode/IntelliJ IDEA/Blender.
 - 🖥️ Operating system: Windows 11 (+ WSL2, sometimes).
 - 🎵 [Spotify playlist](https://open.spotify.com/playlist/16c8EwGMSEp9NSRW8uZOSL?si=41c4699d34754baa).
 - ⌨️ [Blog](https://bush-car-dcc.notion.site/04baa12ee4aa4119aa9293ea4f5c2d77?v=5c9e4f3401914d48bc9cbc0e37f95b07)
